@@ -8,6 +8,24 @@ Hi 👋 I’m [**Waseem Khan**](https://www.linkedin.com/in/waseemwk/) a Senior 
 Proficient in **Swift** and **Objective-C**. Familiar with **Java** and have hands-on experience with **Kotlin/Android**, capable of contributing effectively if needed.
 <br/>
 
+**Highlights**
+
+- ⚡ Swift
+- 👾 Objective C
+- 🎨 SwiftUI
+- ✈️ TestFlight
+- ⚡ Swift Package Manager
+- 📱 iPad
+- ⛁ CoreData
+- ⬇️ Apple Enterprise Distribution
+- ⛁ Segment
+- 📊 Mixpanel
+- 🔥 Firebase
+- ⓕ Facebook SDK (Auth & Events)
+- 🎯 OneSignal (Deep linking)
+- 🎯 Adjust (Deep Linking)
+- 🦈 RxSwift
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [swift-shield]: https://img.shields.io/badge/Swift-FF7F00?style=for-the-badge&logo=swift&logoColor=white
 [swift-url]: https://www.swift.org/
