@@ -5,25 +5,25 @@
 
 Hi 👋 I’m [**Waseem Khan**](https://www.linkedin.com/in/waseemwk/) a Senior iOS Developer with 10+ years of experience in designing, developing, and delivering high-performance mobile applications. 
 Proficient in **Swift** and **Objective-C**. Familiar with **Java** and have hands-on experience with **Kotlin/Android**, capable of contributing effectively if needed.
-<br/>
+<br/><br/>
 
 **Highlights**
-
-- ⚡ Swift
-- 👾 Objective C
-- 🎨 SwiftUI
-- ✈️ TestFlight
-- ⚡ Swift Package Manager
-- 📱 iPad
-- ⛁ CoreData
-- ⬇️ Apple Enterprise Distribution
-- ⛁ Segment
-- 📊 Mixpanel
-- 🔥 Firebase
-- ⓕ Facebook SDK (Auth & Events)
-- 🎯 OneSignal (Deep linking)
-- 🎯 Adjust (Deep Linking)
-- 🦈 RxSwift
+<br/>
+<br> ⚡ Swift
+<br> 👾 Objective C
+<br> 🎨 SwiftUI
+<br> ✈️ TestFlight
+<br> ⚡ Swift Package Manager
+<br> 📱 iPad
+<br> ⛁ CoreData
+<br> ⬇️ Apple Enterprise Distribution
+<br> ⛁ Segment
+<br> 📊 Mixpanel
+<br> 🔥 Firebase
+<br> ⓕ Facebook SDK (Auth & Events)
+<br> 🎯 OneSignal (Deep linking)
+<br> 🎯 Adjust (Deep Linking)
+<br> 🦈 RxSwift
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [swift-shield]: https://img.shields.io/badge/Swift-FF7F00?style=for-the-badge&logo=swift&logoColor=white
