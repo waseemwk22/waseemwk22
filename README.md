@@ -1,5 +1,3 @@
-[![Swift][swift-shield]][swift-url]
-[![Objective C][objective-c-shield]][objective-c-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
 
